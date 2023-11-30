@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.color-trang
+{color: #EEEEEE}
+#giomocua {
+	background-image: url( "../images/Delirious-Thoughts.jpg");
+	background-size: auto
+}
+.den-che-anh{
+	background-color: rgba(18,25,31,0.50);
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+}
+.contentStripesContainer {
+    box-shadow: 0 3px 0 rgba(0, 0, 0, 0.05) inset;
+}
+.price{
+	font-family: 'Rokkitt', serif;
+	color: rgba(69,88,6,1.00);
+	font-size: 20px;
+}
+.itemTitle{
+	font-family: 'Rokkitt', serif;
+	color: #455806;
+	font-size: 20px;
+}
